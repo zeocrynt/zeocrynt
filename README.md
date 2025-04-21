@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isolouly
-- 👀 I’m interested in C#, Game Development.
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C#, Python Game Development.
+- 🌱 I’m currently learning C# and Python
 
 <!---
 Isolouly/Isolouly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
